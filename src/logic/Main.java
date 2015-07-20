@@ -5,8 +5,11 @@ import gui.MainWindow;
 
 public class Main {
 	public static void main(String[] args) throws Exception {
-		EditDatabase racesDb = new EditDatabase();
-		MainWindow win = new MainWindow(racesDb);
-		win.setVisible(true);
+		//EditDatabase racesDb = new EditDatabase();
+		//MainWindow win = new MainWindow(racesDb);
+		//win.setVisible(true);
+		
+		System.out.println("AHOJ");
+		System.out.println("Hej");
 	}	
 }

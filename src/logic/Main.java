@@ -10,6 +10,5 @@ public class Main {
 		//win.setVisible(true);
 		
 		System.out.println("AHOJ");
-		System.out.println("Hej");
 	}	
 }

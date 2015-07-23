@@ -12,5 +12,6 @@ public class Main {
 		System.out.println("vole");
 		System.out.println("krch");
 		System.out.println("brch");
+		System.out.println("sračka");
 	}	
 }

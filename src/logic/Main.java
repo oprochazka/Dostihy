@@ -9,8 +9,6 @@ public class Main {
 		//MainWindow win = new MainWindow(racesDb);
 		//win.setVisible(true);
 		
-		System.out.println("AHOJ");
-		System.out.println("Hej");
 		System.out.println("vole");
 	}	
 }

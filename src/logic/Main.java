@@ -12,5 +12,7 @@ public class Main {
 		System.out.println("AHOJ");
 		System.out.println("Hej");
 		System.out.println("vole");
+		System.out.println("krch");
+		
 	}	
 }

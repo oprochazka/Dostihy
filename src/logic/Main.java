@@ -21,7 +21,7 @@ public class Main {
 		System.out.println("ahoj");
 		System.out.println("ahoj");
 		System.out.println("sracka");
-
+		System.out.println("krtek");
 		System.out.println("nene");
 
 	}	

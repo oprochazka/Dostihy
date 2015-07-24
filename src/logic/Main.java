@@ -19,6 +19,7 @@ public class Main {
 		System.out.println("krutě");
 		System.out.println("blah");
 		System.out.println("ahoj");
+		System.out.println("ahoj");
 
 	}	
 }

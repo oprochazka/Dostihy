@@ -22,7 +22,7 @@ public class Main {
 
 		System.out.println("sracka");
 		System.out.println("krtek");
-
+		System.out.println("najdi mě");
 		System.out.println("krutě");
 
 

@@ -15,14 +15,10 @@ public class Main {
 
 		out.println("sračka");
 
-		
-		
-		System.out.println("blah");
-		System.out.println("ahoj");
-		System.out.println("ahoj");
+
 		System.out.println("sracka");
 		System.out.println("krtek");
-		System.out.println("nene");
+		System.out.println("nene1");
 
 	}	
 }

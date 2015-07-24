@@ -15,16 +15,16 @@ public class Main {
 
 		out.println("sračka");
 
+
 		for(int x;x<10;x++){
 			
-		}
-		
-		System.out.println("blah");
-		System.out.println("ahoj");
-		System.out.println("ahoj");
+		}				
+
 		System.out.println("sracka");
 		System.out.println("krtek");
+
 		System.out.println("krutě");
+
 
 	}	
 }

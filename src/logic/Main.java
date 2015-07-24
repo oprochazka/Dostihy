@@ -8,10 +8,10 @@ public class Main {
 		//EditDatabase racesDb = new EditDatabase();
 		//MainWindow win = new MainWindow(racesDb);
 		//win.setVisible(true);
-		
+		Syste.out.println("kočka");
 		System.out.println("vole");
 		System.out.println("krch");
 		System.out.println("brch");
-		System.out.println("sračka");
+		out.println("sračka");
 	}	
 }

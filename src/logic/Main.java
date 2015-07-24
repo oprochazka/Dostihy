@@ -16,7 +16,7 @@ public class Main {
 		out.println("sračka");
 
 		
-		System.out.println("krutě");
+		
 		System.out.println("blah");
 		System.out.println("ahoj");
 		System.out.println("ahoj");
